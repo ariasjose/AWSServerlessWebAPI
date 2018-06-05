@@ -1,0 +1,11 @@
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\bin\Debug\netcoreapp2.0\AWSServerless.deps.json
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\bin\Debug\netcoreapp2.0\AWSServerless.runtimeconfig.json
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\bin\Debug\netcoreapp2.0\AWSServerless.runtimeconfig.dev.json
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\bin\Debug\netcoreapp2.0\AWSServerless.dll
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\bin\Debug\netcoreapp2.0\AWSServerless.pdb
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.csprojAssemblyReference.cache
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.csproj.CoreCompileInputs.cache
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.AssemblyInfoInputs.cache
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.AssemblyInfo.cs
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.dll
+C:\Users\jose.e.arias.quiros\Desktop\AWS\AWSServerless\AWSServerless\obj\Debug\netcoreapp2.0\AWSServerless.pdb
